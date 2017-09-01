@@ -1,0 +1,31 @@
+{
+  "name": "starter-karma-angularjs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "karma start --singleRun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saulsluz/starter-karma-angularjs.git"
+  },
+  "keywords": [
+    "starter",
+    "karma",
+    "angularjs"
+  ],
+  "author": "Saul Luz <saulsluz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saulsluz/starter-karma-angularjs/issues"
+  },
+  "homepage": "https://github.com/saulsluz/starter-karma-angularjs#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "dependencies": {}
+}
